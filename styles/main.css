@@ -1,1 +1,6 @@
-
+body {
+  background-image: url("https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/teamPicThumb117621-4264-i04y8i.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
