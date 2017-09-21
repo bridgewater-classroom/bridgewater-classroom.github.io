@@ -1,6 +1,6 @@
 body {
-  background-image: url("https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/teamPicThumb117621-4264-i04y8i.png");
-  background-size: cover;
+  background-image: url("https://www.marshalltown.k12.ia.us/media/cms/BobcatPride_logo_34DE656DAB236.jpg");
+  background-size: contain;
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
